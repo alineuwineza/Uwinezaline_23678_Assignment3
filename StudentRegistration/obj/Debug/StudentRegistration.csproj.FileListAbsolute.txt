@@ -1,0 +1,18 @@
+c:\users\bergerac\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe.config
+c:\users\bergerac\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe
+c:\users\bergerac\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.pdb
+c:\users\bergerac\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csprojResolveAssemblyReference.cache
+c:\users\bergerac\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Form1.resources
+c:\users\bergerac\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Login.resources
+c:\users\bergerac\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Properties.Resources.resources
+c:\users\bergerac\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csproj.GenerateResource.Cache
+c:\users\bergerac\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.exe
+c:\users\bergerac\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb
+C:\Users\Bergerac\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Form2.resources
+C:\Users\Bergerac\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Form3.resources
+C:\Users\Bergerac\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.MDI.resources
+C:\Users\Bergerac\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.claim.resources
+C:\Users\Bergerac\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.ChangePro.resources
+C:\Users\Aline\Downloads\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe.config
+C:\Users\Aline\Downloads\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.exe
+C:\Users\Aline\Downloads\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb
